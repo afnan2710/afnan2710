@@ -71,6 +71,7 @@ Automated Railway Crack Detection Robot using Computer Vision.
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/afnan-shahriar-504894358/
+- 👨‍💻 Portfolio: https://afnanshahriar.vercel.app
 - 💻 GitHub: https://github.com/afnan2710
 - 📧 Email: afnan.shahriar27@gmail.com
 - 📱 Phone: +880 1601-701444
