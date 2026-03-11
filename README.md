@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🏆 CGPA: 3.68 / 4.00 (Merit Scholarship Holder)
+- 🏆 Bachelor CGPA: 3.68 / 4.00 (Merit Scholarship Holder)
 - 🥇 Champion – UIU CSE Project Show (FYDP-I, Summer'25)
 - 💼 Former Intern – Project Management & Data Visualization (Excelerate, Dubai – Remote)
 - 💼 Former Intern – Operations Management (YSSE – Remote)
